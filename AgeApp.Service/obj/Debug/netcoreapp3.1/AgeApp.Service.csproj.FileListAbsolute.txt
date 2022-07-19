@@ -1,0 +1,13 @@
+C:\Users\HP\Desktop\Practice\AgeApp\AgeApp.Service\bin\Debug\netcoreapp3.1\AgeApp.Service.deps.json
+C:\Users\HP\Desktop\Practice\AgeApp\AgeApp.Service\bin\Debug\netcoreapp3.1\AgeApp.Service.dll
+C:\Users\HP\Desktop\Practice\AgeApp\AgeApp.Service\bin\Debug\netcoreapp3.1\AgeApp.Service.pdb
+C:\Users\HP\Desktop\Practice\AgeApp\AgeApp.Service\bin\Debug\netcoreapp3.1\AgeApp.Model.dll
+C:\Users\HP\Desktop\Practice\AgeApp\AgeApp.Service\bin\Debug\netcoreapp3.1\AgeApp.Model.pdb
+C:\Users\HP\Desktop\Practice\AgeApp\AgeApp.Service\obj\Debug\netcoreapp3.1\AgeApp.Service.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Practice\AgeApp\AgeApp.Service\obj\Debug\netcoreapp3.1\AgeApp.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\Practice\AgeApp\AgeApp.Service\obj\Debug\netcoreapp3.1\AgeApp.Service.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\Practice\AgeApp\AgeApp.Service\obj\Debug\netcoreapp3.1\AgeApp.Service.AssemblyInfo.cs
+C:\Users\HP\Desktop\Practice\AgeApp\AgeApp.Service\obj\Debug\netcoreapp3.1\AgeApp.Service.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Practice\AgeApp\AgeApp.Service\obj\Debug\netcoreapp3.1\AgeApp.Service.csproj.CopyComplete
+C:\Users\HP\Desktop\Practice\AgeApp\AgeApp.Service\obj\Debug\netcoreapp3.1\AgeApp.Service.dll
+C:\Users\HP\Desktop\Practice\AgeApp\AgeApp.Service\obj\Debug\netcoreapp3.1\AgeApp.Service.pdb

@@ -1,0 +1,10 @@
+C:\Users\HP\Desktop\Practice\AgeApp\Ageapp.Model\bin\Debug\netcoreapp3.1\AgeApp.Model.deps.json
+C:\Users\HP\Desktop\Practice\AgeApp\Ageapp.Model\bin\Debug\netcoreapp3.1\AgeApp.Model.dll
+C:\Users\HP\Desktop\Practice\AgeApp\Ageapp.Model\bin\Debug\netcoreapp3.1\AgeApp.Model.pdb
+C:\Users\HP\Desktop\Practice\AgeApp\Ageapp.Model\obj\Debug\netcoreapp3.1\AgeApp.Model.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Practice\AgeApp\Ageapp.Model\obj\Debug\netcoreapp3.1\AgeApp.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\Practice\AgeApp\Ageapp.Model\obj\Debug\netcoreapp3.1\AgeApp.Model.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\Practice\AgeApp\Ageapp.Model\obj\Debug\netcoreapp3.1\AgeApp.Model.AssemblyInfo.cs
+C:\Users\HP\Desktop\Practice\AgeApp\Ageapp.Model\obj\Debug\netcoreapp3.1\AgeApp.Model.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Practice\AgeApp\Ageapp.Model\obj\Debug\netcoreapp3.1\AgeApp.Model.dll
+C:\Users\HP\Desktop\Practice\AgeApp\Ageapp.Model\obj\Debug\netcoreapp3.1\AgeApp.Model.pdb
