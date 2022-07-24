@@ -16,5 +16,10 @@ namespace AgeApp.Service
         {
             return DateTime.Now.Year - model.DateofBirth.Year;
         }
+
+        public DateTime GetDate(int age)
+        {
+            return DateTime.Now.AddYears(-age);
+        }
     }
 }
