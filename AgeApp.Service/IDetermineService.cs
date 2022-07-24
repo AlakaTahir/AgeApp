@@ -8,5 +8,7 @@ namespace AgeApp.Service
     public interface IDetermineService
     {
         int ShowAge(DateCollectorModel model);
+
+        DateTime GetDate(int age);
     }
 }
