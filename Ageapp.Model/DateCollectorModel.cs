@@ -8,5 +8,6 @@ namespace AgeApp.Model
     {
         public int Id { get; set; }
         public DateTime DateofBirth { get; set; }
+        public DateTime DateRequested { get; set; }
     }
 }

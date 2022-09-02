@@ -9,7 +9,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AgeApp.Service", "AgeApp.Se
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AgeApp.API", "AgeApp.API\AgeApp.API.csproj", "{C7427D7A-487D-4263-A117-06D32AA42D2C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AgeApp.Migration", "AgeApp.Migration\AgeApp.Migration.csproj", "{BA90DBEF-A608-4DD3-9B02-0931BEAB13D9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AgeApp.Migrations", "AgeApp.Migration\AgeApp.Migrations.csproj", "{BA90DBEF-A608-4DD3-9B02-0931BEAB13D9}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

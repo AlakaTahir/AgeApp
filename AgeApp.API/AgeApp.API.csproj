@@ -5,12 +5,13 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <PackageReference Include="Pomelo.EntityFrameworkCore.MySql" Version="3.1.1" />
     <PackageReference Include="Swashbuckle.AspNetCore" Version="5.3.1" />
     <PackageReference Include="Microsoft.EntityFrameworkCore" Version="3.1.10" />
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\AgeApp.Migration\AgeApp.Migration.csproj" />
+    <ProjectReference Include="..\AgeApp.Migration\AgeApp.Migrations.csproj" />
     <ProjectReference Include="..\AgeApp.Service\AgeApp.Service.csproj" />
   </ItemGroup>
 
