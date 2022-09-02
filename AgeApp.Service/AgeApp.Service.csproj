@@ -5,6 +5,7 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\AgeApp.Migration\AgeApp.Migrations.csproj" />
     <ProjectReference Include="..\Ageapp.Model\AgeApp.Model.csproj" />
   </ItemGroup>
 

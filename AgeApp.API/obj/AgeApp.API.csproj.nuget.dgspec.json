@@ -28,8 +28,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\HP\\Desktop\\Practice\\AgeApp\\AgeApp.Migration\\AgeApp.Migration.csproj": {
-                "projectPath": "C:\\Users\\HP\\Desktop\\Practice\\AgeApp\\AgeApp.Migration\\AgeApp.Migration.csproj"
+              "C:\\Users\\HP\\Desktop\\Practice\\AgeApp\\AgeApp.Migration\\AgeApp.Migrations.csproj": {
+                "projectPath": "C:\\Users\\HP\\Desktop\\Practice\\AgeApp\\AgeApp.Migration\\AgeApp.Migrations.csproj"
               },
               "C:\\Users\\HP\\Desktop\\Practice\\AgeApp\\AgeApp.Service\\AgeApp.Service.csproj": {
                 "projectPath": "C:\\Users\\HP\\Desktop\\Practice\\AgeApp\\AgeApp.Service\\AgeApp.Service.csproj"
@@ -50,6 +50,10 @@
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
               "version": "[3.1.10, )"
+            },
+            "Pomelo.EntityFrameworkCore.MySql": {
+              "target": "Package",
+              "version": "[3.1.1, )"
             },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
@@ -78,12 +82,12 @@
         }
       }
     },
-    "C:\\Users\\HP\\Desktop\\Practice\\AgeApp\\AgeApp.Migration\\AgeApp.Migration.csproj": {
+    "C:\\Users\\HP\\Desktop\\Practice\\AgeApp\\AgeApp.Migration\\AgeApp.Migrations.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\HP\\Desktop\\Practice\\AgeApp\\AgeApp.Migration\\AgeApp.Migration.csproj",
-        "projectName": "AgeApp.Migration",
-        "projectPath": "C:\\Users\\HP\\Desktop\\Practice\\AgeApp\\AgeApp.Migration\\AgeApp.Migration.csproj",
+        "projectUniqueName": "C:\\Users\\HP\\Desktop\\Practice\\AgeApp\\AgeApp.Migration\\AgeApp.Migrations.csproj",
+        "projectName": "AgeApp.Migrations",
+        "projectPath": "C:\\Users\\HP\\Desktop\\Practice\\AgeApp\\AgeApp.Migration\\AgeApp.Migrations.csproj",
         "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\HP\\Desktop\\Practice\\AgeApp\\AgeApp.Migration\\obj\\",
         "projectStyle": "PackageReference",
@@ -128,15 +132,15 @@
               "target": "Package",
               "version": "[3.1.10, )"
             },
-            "Microsoft.EntityFrameworkCore.SqlServer": {
-              "target": "Package",
-              "version": "[3.1.10, )"
-            },
             "Microsoft.EntityFrameworkCore.Tools": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",
               "target": "Package",
               "version": "[3.1.10, )"
+            },
+            "Pomelo.EntityFrameworkCore.MySql": {
+              "target": "Package",
+              "version": "[3.1.1, )"
             }
           },
           "imports": [
@@ -236,6 +240,9 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
+              "C:\\Users\\HP\\Desktop\\Practice\\AgeApp\\AgeApp.Migration\\AgeApp.Migrations.csproj": {
+                "projectPath": "C:\\Users\\HP\\Desktop\\Practice\\AgeApp\\AgeApp.Migration\\AgeApp.Migrations.csproj"
+              },
               "C:\\Users\\HP\\Desktop\\Practice\\AgeApp\\Ageapp.Model\\AgeApp.Model.csproj": {
                 "projectPath": "C:\\Users\\HP\\Desktop\\Practice\\AgeApp\\Ageapp.Model\\AgeApp.Model.csproj"
               }

@@ -11,3 +11,5 @@ C:\Users\HP\Desktop\Practice\AgeApp\AgeApp.Service\obj\Debug\netcoreapp3.1\AgeAp
 C:\Users\HP\Desktop\Practice\AgeApp\AgeApp.Service\obj\Debug\netcoreapp3.1\AgeApp.Service.csproj.CopyComplete
 C:\Users\HP\Desktop\Practice\AgeApp\AgeApp.Service\obj\Debug\netcoreapp3.1\AgeApp.Service.dll
 C:\Users\HP\Desktop\Practice\AgeApp\AgeApp.Service\obj\Debug\netcoreapp3.1\AgeApp.Service.pdb
+C:\Users\HP\Desktop\Practice\AgeApp\AgeApp.Service\bin\Debug\netcoreapp3.1\AgeApp.Migrations.dll
+C:\Users\HP\Desktop\Practice\AgeApp\AgeApp.Service\bin\Debug\netcoreapp3.1\AgeApp.Migrations.pdb

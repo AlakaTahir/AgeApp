@@ -1,0 +1,16 @@
+C:\Users\HP\Desktop\Practice\AgeApp\AgeApp.Migration\bin\Debug\netcoreapp3.1\AgeApp.Migrations.deps.json
+C:\Users\HP\Desktop\Practice\AgeApp\AgeApp.Migration\bin\Debug\netcoreapp3.1\AgeApp.Migrations.runtimeconfig.json
+C:\Users\HP\Desktop\Practice\AgeApp\AgeApp.Migration\bin\Debug\netcoreapp3.1\AgeApp.Migrations.runtimeconfig.dev.json
+C:\Users\HP\Desktop\Practice\AgeApp\AgeApp.Migration\bin\Debug\netcoreapp3.1\AgeApp.Migrations.dll
+C:\Users\HP\Desktop\Practice\AgeApp\AgeApp.Migration\bin\Debug\netcoreapp3.1\AgeApp.Migrations.pdb
+C:\Users\HP\Desktop\Practice\AgeApp\AgeApp.Migration\bin\Debug\netcoreapp3.1\AgeApp.Model.dll
+C:\Users\HP\Desktop\Practice\AgeApp\AgeApp.Migration\bin\Debug\netcoreapp3.1\AgeApp.Model.pdb
+C:\Users\HP\Desktop\Practice\AgeApp\AgeApp.Migration\obj\Debug\netcoreapp3.1\AgeApp.Migrations.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Practice\AgeApp\AgeApp.Migration\obj\Debug\netcoreapp3.1\AgeApp.Migrations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\Practice\AgeApp\AgeApp.Migration\obj\Debug\netcoreapp3.1\AgeApp.Migrations.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\Practice\AgeApp\AgeApp.Migration\obj\Debug\netcoreapp3.1\AgeApp.Migrations.AssemblyInfo.cs
+C:\Users\HP\Desktop\Practice\AgeApp\AgeApp.Migration\obj\Debug\netcoreapp3.1\AgeApp.Migrations.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Practice\AgeApp\AgeApp.Migration\obj\Debug\netcoreapp3.1\AgeApp.Migrations.csproj.CopyComplete
+C:\Users\HP\Desktop\Practice\AgeApp\AgeApp.Migration\obj\Debug\netcoreapp3.1\AgeApp.Migrations.dll
+C:\Users\HP\Desktop\Practice\AgeApp\AgeApp.Migration\obj\Debug\netcoreapp3.1\AgeApp.Migrations.pdb
+C:\Users\HP\Desktop\Practice\AgeApp\AgeApp.Migration\obj\Debug\netcoreapp3.1\AgeApp.Migrations.genruntimeconfig.cache

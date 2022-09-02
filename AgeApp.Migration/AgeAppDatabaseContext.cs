@@ -4,7 +4,7 @@ using System;
 using System.Collections.Generic;
 using System.Text;
 
-namespace AgeApp.Migration
+namespace AgeApp.Migrations
 {
     public class AgeAppDatabaseContext: DbContext
     {
@@ -19,7 +19,7 @@ namespace AgeApp.Migration
 
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
-            optionsBuilder.UseSqlServer("");
+            optionsBuilder.UseMySql("server=localhost;Database=AgeAppDb;user=root;password=alaka1983");
         }
 
         public  DbSet<DateCollectorModel> DateHistory { get; set; }
